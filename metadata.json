@@ -1,0 +1,6 @@
+{
+  "name": "BizPilot — All-in-One Business Automation Platform",
+  "description": "Manage leads, automation workflows, products, brand identity, storefront, analytics, and AI customer & business insights in one unified workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
